@@ -2,9 +2,9 @@
 
 namespace Iammarjamal\LaravelSfcLocalization\Tests;
 
+use Iammarjamal\LaravelSfcLocalization\LaravelSfcLocalizationServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Iammarjamal\LaravelSfcLocalization\LaravelSfcLocalizationServiceProvider;
 
 class TestCase extends Orchestra
 {

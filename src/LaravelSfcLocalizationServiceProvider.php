@@ -2,9 +2,9 @@
 
 namespace Iammarjamal\LaravelSfcLocalization;
 
+use Iammarjamal\LaravelSfcLocalization\Commands\LaravelSfcLocalizationCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Iammarjamal\LaravelSfcLocalization\Commands\LaravelSfcLocalizationCommand;
 
 class LaravelSfcLocalizationServiceProvider extends PackageServiceProvider
 {
